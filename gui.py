@@ -41,7 +41,7 @@ class ImageProcessorApp:
         ttk.Entry(self.root, textvariable=self.image_path, width=40).grid(row=0, column=1, padx=10, pady=10, sticky="we")
         ttk.Button(self.root, text="Browse", command=self.browse_image).grid(row=0, column=2, padx=10, pady=10)
 
-        # Buttons with improved appearance
+        # Buttons
         buttons = ["High Pass Filter", "Low Pass Filter", "Column Compression", "Row Compression", "Total Compression"]
         functions = [high_pass_filter, low_pass_filter, row_compression, column_compression, total_compression]
 
