@@ -12,13 +12,18 @@ Additionally, a user-friendly graphical user interface (GUI) has been developed 
 - **High Pass FIR Filter:** Effectively filters high-frequency components, aiding in edge detection.
   ![High Pass Filter](hpf_image1.jpg)
 - **Low Pass FIR Filter:** Smoothens images by filtering out high-frequency noise.
+  ![Low Pass Filter](lpf_image1.jpg)
 
 ### 2. Data Compression
 - **Haar Wavelet Transform:** Provides efficient data compression, reducing image size while maintaining essential information.
+  ![Haar Wavelet Transform](col_compress_image1.jpg)
+  ![Haar Wavelet Transform](row_compress_image1.jpg)
 - **Signal Recovery:** Recovers the compressed image to its original form.
+   ![Signal Recovery](tot_compress_image1.jpg)
 
 ### 3. User Interface
 - **GUI Toolbox:** A user-friendly graphical interface allowing users to perform all operations with a single click.
+ ![Signal Recovery](Image 1.jpg)
 - **Seamless Experience:** The GUI streamlines the entire image processing workflow, enhancing user convenience.
 
 ## Usage
