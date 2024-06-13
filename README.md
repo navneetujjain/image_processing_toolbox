@@ -10,6 +10,7 @@ Additionally, a user-friendly graphical user interface (GUI) has been developed 
 
 ### 1. Filters
 - **High Pass FIR Filter:** Effectively filters high-frequency components, aiding in edge detection.
+  ![High Pass Filter](hpf_image1.jpg)
 - **Low Pass FIR Filter:** Smoothens images by filtering out high-frequency noise.
 
 ### 2. Data Compression
