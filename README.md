@@ -23,7 +23,7 @@ Additionally, a user-friendly graphical user interface (GUI) has been developed 
 
 ### 3. User Interface
 - **GUI Toolbox:** A user-friendly graphical interface allowing users to perform all operations with a single click.
- ![Signal Recovery](Image 1.jpg)
+ ![Signal Recovery](Image1.jpg)
 - **Seamless Experience:** The GUI streamlines the entire image processing workflow, enhancing user convenience.
 
 ## Usage
